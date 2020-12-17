@@ -13,10 +13,17 @@ public class RESTAPITest {
 		System.out.println("postJira5");
 		System.out.println("postJira6");
 		System.out.println("postJira7");
+		
+		System.out.println("postJira8");
 	}
 	
 	@Test
 	public void deleteTwitter() {
+		System.out.println("deleteTwitter");
+	}
+	
+	@Test
+	public void deleteTwitter2() {
 		System.out.println("deleteTwitter");
 	}
 }
